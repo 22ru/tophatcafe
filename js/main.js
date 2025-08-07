@@ -42,7 +42,9 @@ function initializeIframe() {
     var currentHash;
     var check;
 
-    if (window.location.hostname == "22ru.github.io") pathnameOffset = 11;
+     // 6 is "/cafe/".length (from being on nekocomiccon)
+     // 12 is "/tophatcafe/".length (github location)
+    if (window.location.hostname == "22ru.github.io") pathnameOffset = 12;
 
     currentHash = document.location.hash;
     console.log("initializing: current hash is " + currentHash);
@@ -66,7 +68,7 @@ function initializeIframe() {
     document.getElementById("content").addEventListener("load", function() {
         console.log("LOAD EVENT. iframe src location = " + document.getElementById("content").src);
         // update hash
-        var newHash = document.getElementById("content").contentWindow.location.pathname.substr(1); // 6 is "/cafe/".length 
+        var newHash = document.getElementById("content").contentWindow.location.pathname.substr(pathnameOffset);
         console.log("changing hash to " + newHash);
         window.location.hash = "#" + newHash;
     }, false);
