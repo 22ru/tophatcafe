@@ -7,6 +7,7 @@ var initial = 1;
 var anger = 0;
 var timeoutID;
 var drinkTimeoutID;
+var pathnameOffset = 1;
 
 var mugs = [
     ["engel", "The sunlight comes in the windows brightly as you drink this."],
@@ -40,6 +41,8 @@ var mugs = [
 function initializeIframe() {
     var currentHash;
     var check;
+
+    if (window.location.hostname == "22ru.github.io") pathnameOffset = 11;
 
     currentHash = document.location.hash;
     console.log("initializing: current hash is " + currentHash);
