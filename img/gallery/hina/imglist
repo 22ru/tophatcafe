@@ -1,16 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>top hat cafe - gallery</title>
-	<link rel="stylesheet" href="../css/cafe.css">
-    <script src="../js/gallery.js"></script> 
-</head>
-<body id="contentBody">
-
-    <h2>Hina - SD Lieselotte</h2>
-
-    <img loading="lazy" src="../img/gallery/hina/CIA07613.jpg" />
+gallery
+	<img loading="lazy" src="../img/gallery/hina/CIA07613.jpg" />
 	<img loading="lazy" src="../img/gallery/hina/CIA07423.jpg" />
 	<img loading="lazy" src="../img/gallery/hina/CIA06990.jpg" />
 	<img loading="lazy" src="../img/gallery/hina/CIA06652.jpg" />
@@ -170,4 +159,3 @@
 	<img loading="lazy" src="../img/gallery/hina/HAT06960.jpg" />
 	<img loading="lazy" src="../img/gallery/hina/HAT06833.jpg" />
 	<img loading="lazy" src="../img/gallery/hina/IMG_0622.jpg" />
-</body>

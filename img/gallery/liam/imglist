@@ -1,16 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>top hat cafe - gallery</title>
-	<link rel="stylesheet" href="../css/cafe.css">
-    <script src="../js/gallery.js"></script> 
-</head>
-<body id="contentBody" onload="startGallery();">
-
-    <h2>Liam - Migidoll Ryu</h2>
-
-    <img loading="lazy" src="../img/gallery/liam/CIA03434.jpg" />
+gallery
+	<img loading="lazy" src="../img/gallery/liam/CIA03434.jpg" />
 	<img loading="lazy" src="../img/gallery/liam/CIA03426.jpg" />
 	<img loading="lazy" src="../img/gallery/liam/CIA03212.jpg" />
 	<img loading="lazy" src="../img/gallery/liam/CIA02763.jpg" />
@@ -73,4 +62,3 @@
 	<img loading="lazy" src="../img/gallery/liam/HAT03681.jpg" />
 	<img loading="lazy" src="../img/gallery/liam/HAT03675.jpg" />
 	<img loading="lazy" src="../img/gallery/liam/HAT03668.jpg" />
-</body>

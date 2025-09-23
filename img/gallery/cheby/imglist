@@ -1,16 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>top hat cafe - gallery</title>
-	<link rel="stylesheet" href="../css/cafe.css">
-    <script src="../js/gallery.js"></script> 
-</head>
-<body id="contentBody" >
-
-    <h2>Pafnuty - Migidoll Miho</h2>
-
-    <img loading="lazy" src="../img/gallery/cheby/CIA03761.jpg" />
+gallery
+	<img loading="lazy" src="../img/gallery/cheby/CIA03761.jpg" />
 	<img loading="lazy" src="../img/gallery/cheby/CIA03332.jpg" />
 	<img loading="lazy" src="../img/gallery/cheby/CIA02848.jpg" />
 	<img loading="lazy" src="../img/gallery/cheby/IMG_0212.jpg" />
@@ -111,4 +100,3 @@
 	<img loading="lazy" src="../img/gallery/cheby/LOL00637.jpg" />
 	<img loading="lazy" src="../img/gallery/cheby/IMG_9305.jpg" />
 	<img loading="lazy" src="../img/gallery/cheby/HAT06099.jpg" />
-</body>

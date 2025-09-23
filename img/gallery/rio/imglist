@@ -1,16 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>top hat cafe - gallery</title>
-	<link rel="stylesheet" href="../css/cafe.css">
-    <script src="../js/gallery.js"></script> 
-</head>
-<body id="contentBody" >
-
-    <h2>Rio - Dream of Doll Black Elf Sha</h2>
-
-    <img loading="lazy" src="../img/gallery/rio/CIA01043.jpg" />
+gallery
+	<img loading="lazy" src="../img/gallery/rio/CIA01043.jpg" />
 	<img loading="lazy" src="../img/gallery/rio/LOL09629.jpg" />
 	<img loading="lazy" src="../img/gallery/rio/LOL09624.jpg" />
 	<img loading="lazy" src="../img/gallery/rio/LOL09607.jpg" />
@@ -38,4 +27,3 @@
 	<img loading="lazy" src="../img/gallery/rio/HAT06913.jpg" />
 	<img loading="lazy" src="../img/gallery/rio/HAT06119.jpg" />
 	<img loading="lazy" src="../img/gallery/rio/HAT06037.jpg" />
-</body>

@@ -1,16 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>top hat cafe - gallery</title>
-	<link rel="stylesheet" href="../css/cafe.css">
-    <script src="../js/gallery.js"></script> 
-</head>
-<body id="contentBody" >
-
-    <h2>Group photos</h2>
-
-    <img loading="lazy" src="../img/gallery/group/CIA06522.jpg" />
+gallery
+	<img loading="lazy" src="../img/gallery/group/CIA06522.jpg" />
 	<img loading="lazy" src="../img/gallery/group/CIA06518.jpg" />
 	<img loading="lazy" src="../img/gallery/group/CIA06517.jpg" />
 	<img loading="lazy" src="../img/gallery/group/CIA06478.jpg" />
@@ -75,4 +64,3 @@
 	<img loading="lazy" src="../img/gallery/group/HAT05626.jpg" />
 	<img loading="lazy" src="../img/gallery/group/HAT05596.jpg" />
 	<img loading="lazy" src="../img/gallery/group/HAT04011.jpg" />
-</body>

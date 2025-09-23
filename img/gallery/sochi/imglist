@@ -1,16 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>top hat cafe - gallery</title>
-	<link rel="stylesheet" href="../css/cafe.css">
-    <script src="../js/gallery.js"></script> 
-</head>
-<body id="contentBody">
-
-    <h2>Sochi - Bluefairy Sarang</h2>
-
-    <img loading="lazy" src="../img/gallery/sochi/LOL06745.jpg" />
+gallery
+	<img loading="lazy" src="../img/gallery/sochi/LOL06745.jpg" />
 	<img loading="lazy" src="../img/gallery/sochi/LOL03248.jpg" />
 	<img loading="lazy" src="../img/gallery/sochi/LOL03242.jpg" />
 	<img loading="lazy" src="../img/gallery/sochi/LOL03232.jpg" />
@@ -30,4 +19,3 @@
 	<img loading="lazy" src="../img/gallery/sochi/HAT03976.jpg" />
 	<img loading="lazy" src="../img/gallery/sochi/HAT03971.jpg" />
 	<img loading="lazy" src="../img/gallery/sochi/HAT03963.jpg" />
-</body>

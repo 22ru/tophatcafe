@@ -1,16 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>top hat cafe - gallery</title>
-	<link rel="stylesheet" href="../css/cafe.css">
-    <script src="../js/gallery.js"></script> 
-</head>
-<body id="contentBody" >
-
-    <h2>Volks DDH06</h2>
-
-    <img loading="lazy" src="../img/gallery/hachidori/HAT05709.jpg" />
+gallery
+	<img loading="lazy" src="../img/gallery/hachidori/HAT05709.jpg" />
 	<img loading="lazy" src="../img/gallery/hachidori/HAT05669.jpg" />
 	<img loading="lazy" src="../img/gallery/hachidori/HAT05590.jpg" />
 	<img loading="lazy" src="../img/gallery/hachidori/HAT03246.jpg" />
@@ -26,4 +15,3 @@
 	<img loading="lazy" src="../img/gallery/hachidori/HAT02480.jpg" />
 	<img loading="lazy" src="../img/gallery/hachidori/HAT02405.jpg" />
 	<img loading="lazy" src="../img/gallery/hachidori/HAT02404.jpg" />
-</body>

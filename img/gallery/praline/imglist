@@ -1,16 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>top hat cafe - gallery</title>
-	<link rel="stylesheet" href="../css/cafe.css">
-    <script src="../js/gallery.js"></script> 
-</head>
-<body id="contentBody">
-
-    <h2>Praline - Kinoko Juice Kiki</h2>
-
-    <img loading="lazy" src="../img/gallery/praline/LOL09061.jpg" />
+gallery
+	<img loading="lazy" src="../img/gallery/praline/LOL09061.jpg" />
 	<img loading="lazy" src="../img/gallery/praline/LOL06765.jpg" />
 	<img loading="lazy" src="../img/gallery/praline/LOL05302.jpg" />
 	<img loading="lazy" src="../img/gallery/praline/LOL04372.jpg" />
@@ -34,4 +23,3 @@
 	<img loading="lazy" src="../img/gallery/praline/HAT09705.jpg" />
 	<img loading="lazy" src="../img/gallery/praline/HAT09700.jpg" />
 	<img loading="lazy" src="../img/gallery/praline/HAT09660.jpg" />
-</body>

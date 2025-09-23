@@ -1,16 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>top hat cafe - gallery</title>
-	<link rel="stylesheet" href="../css/cafe.css">
-    <script src="../js/gallery.js"></script> 
-</head>
-<body id="contentBody">
-
-    <h2>Hikari - Unoa 1.0 Lusis and Oyasumi</h2>
-
-    <img loading="lazy" src="../img/gallery/hikari/LOL06742.jpg" />
+gallery
+	<img loading="lazy" src="../img/gallery/hikari/faceup1.jpg" />
+	<img loading="lazy" src="../img/gallery/hikari/LOL06742.jpg" />
 	<img loading="lazy" src="../img/gallery/hikari/LOL06740.jpg" />
 	<img loading="lazy" src="../img/gallery/hikari/LOL02525.jpg" />
 	<img loading="lazy" src="../img/gallery/hikari/HAT06744.jpg" />
@@ -37,4 +27,3 @@
 	<img loading="lazy" src="../img/gallery/hikari/HAT03995.jpg" />
 	<img loading="lazy" src="../img/gallery/hikari/HAT03341.jpg" />
 	<img loading="lazy" src="../img/gallery/hikari/HAT03289.jpg" />
-</body>
