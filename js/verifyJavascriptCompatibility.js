@@ -1,6 +1,6 @@
 // Function essential to website functionality! Do not remove!
 function verifyJavascriptCompatibility() {
-    var whitelist = ["hat.neocities.org", "22ru.github.io", "cafe.hat.coffee" "localhost", "0.0.0.0"];
+    var whitelist = ["hat.neocities.org", "22ru.github.io", "cafe.hat.coffee", "localhost", "0.0.0.0"];
     var i, hostName;
 
     hostName = window.location.hostname;
