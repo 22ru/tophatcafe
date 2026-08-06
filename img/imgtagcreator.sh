@@ -21,7 +21,7 @@ touch imglist;
 echo "$1" > imglist;
 
 #for f in $( ls -1 *.jpg | sort -r) ; do #reverse
-for f in $( ls -1 -t *.jpg ) ; do 
-	echo -e "\t<img loading=\"lazy\" src=\"../img/$1/$2/$f\" />" >> imglist;
+for f in $( ls -tr | grep .jpg ) ; do 
+	echo -e "\t<img loading=\"lazy\" src=\"../../img/$1/$2$f\" />" >> imglist;
 done;
 
