@@ -94,8 +94,8 @@ function checkHours() {
 
     d = new Date();
     t = d.getHours();
-    if (t < 6 || t > 16) {
-    //if (false) {
+    //if (t < 6 || t > 16) {
+    if (false) {
         document.getElementById("navigation").style.display = 'none';
         document.getElementById("content").src = "closed.html";
         document.getElementById("barista").style.display = 'none';

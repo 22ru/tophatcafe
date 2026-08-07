@@ -12,43 +12,16 @@
     <script>
         KJfairyring.loadNavCustomizations("Ⱄ", "Ⱄ", "𓋼", " 𓍊 ");
     </script>
-    <style>
-        #workplaceAccident {
-            margin-left: auto;
-            margin-right: auto;
-            border-style: solid;
-            border-color: #836435;
-            border-width: 2px;
-            border-radius: 5px;
-            width: max-content;
-            text-align: center;
-            padding: 1em;
-            background-color: rgb(44, 44, 44);
-        }
-        #workplaceAccident h2 {
-            color: white;
-        }
-        #workplaceAccident p {
-            color: #fbecbe;
-        }
-        #workplaceAccident #shameCounter {
-            color: #f0c5ad; 
-            border-style: dashed;
-            border-color: WHITE;
-            border-width: 1px;
-            padding: 2px;
-            font-size: 120%;
-        }
-    </style>
     <script>
         //this really doesnt need to be refreshed
 		function timeRefresh() {
 			document.getElementById("shameCounter").innerText = Math.floor((((new Date).getTime() / 1000) - 1781620500) /60 /60 /24);
 		}
     </script>
+    <script type="text/javascript" src="js/updates.js"></script>
 </head>
 
-<body id="contentBody" onload="timeRefresh(); SDHandHold.createLinks(); KJfairyring.buildWidget(); eggring.buildWidget();">
+<body id="contentBody" onload="timeRefresh(); retrieveXML('tophatcafe.xml'); SDHandHold.createLinks(); KJfairyring.buildWidget(); eggring.buildWidget();">
     <h1>いらっしゃいませ~!</h1>
 
     <img src="img/gallery/cheby/LOL01737.jpg" />
@@ -65,9 +38,11 @@
 
     <p>House rules: No dogs, no Choo, no recasts! Service dogs and miniature horses are welcome. ESA animals are not. All dolls are free to view, but please do not touch!</p>
 
-    <p>All new doll purchases must be pre-approved by <a href="https://sylum.web.fc2.com/" target="_blank" rel="noopener noreferrer">Mima</a>. All unauthorized purchases will be shamed.</p>
+    <div id="updateBox">
+        <h3><a href="tophatcafe.xml">Recent Updates</a></h3>
+    </div>
 
-    <div class="webring">
+    <div class="webring" onload="">
         <img src="https://22ru.github.io/webring/img/hh_100x100.jpg">
         <div class="webringText">
         <a id="SDHandHoldIndex" target="_blank" rel="noopener noreferrer">Super Dollfie WebHandHold</a>
@@ -82,6 +57,8 @@
     <div class="webring" id="KJfairyring"></div>
 
     <div class="webring" id="eggring"></div>
+
+    <img src="img/buttons/tophatcafe.png" />
     
     <p>Disclaimer: Due to strict rules on recast images and discussion, I do not recommend linking this site on DoA. This is not for my safety.</p>
 
