@@ -1,42 +1,22 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>hat's 猫コミコン</title>
-	<link rel="stylesheet" href="../../css/cafe.css">
-    <script src="../../js/gallery.js"></script> 
-</head>
-<body id="contentBody" onload="startGallery();">
-
-    <h2>PNW BJD Expo (Bremerton)</h2>
-    <h4 class="date">May 24, 2014</h4>
-
-   	<img loading="lazy" src="../../img/event/PNWBJDExpo2014/IMG_7317.jpg" />
-    <p>Nyaaa~ I think I brought Sochi too but I can't remember if I ever got her out.</p>
+event/PNWBJDExpo2014
+	<img loading="lazy" src="../../img/event/PNWBJDExpo2014/IMG_7317.jpg" />
 	<img loading="lazy" src="../../img/event/PNWBJDExpo2014/IMG_7318.jpg" />
 	<img loading="lazy" src="../../img/event/PNWBJDExpo2014/IMG_7320.jpg" />
-    <p>The vendor's hall:</p>
 	<img loading="lazy" src="../../img/event/PNWBJDExpo2014/IMG_7321.jpg" />
 	<img loading="lazy" src="../../img/event/PNWBJDExpo2014/IMG_7322.jpg" />
-    <p>Prizes from the sponsors:</p>
 	<img loading="lazy" src="../../img/event/PNWBJDExpo2014/IMG_7324.jpg" />
 	<img loading="lazy" src="../../img/event/PNWBJDExpo2014/IMG_7325.jpg" />
-    <p>Contestants:</p>
 	<img loading="lazy" src="../../img/event/PNWBJDExpo2014/IMG_7336.jpg" />
 	<img loading="lazy" src="../../img/event/PNWBJDExpo2014/IMG_7348.jpg" />
 	<img loading="lazy" src="../../img/event/PNWBJDExpo2014/IMG_7352.jpg" />
 	<img loading="lazy" src="../../img/event/PNWBJDExpo2014/IMG_7356.jpg" />
 	<img loading="lazy" src="../../img/event/PNWBJDExpo2014/IMG_7364.jpg" />
 	<img loading="lazy" src="../../img/event/PNWBJDExpo2014/IMG_7369.jpg" />
-	<img loading="lazy" src="../../img/event/PNWBJDExpo2014/IMG_7449.jpg" />
-    <p>More of the venue. It was pretty small! There was only 2 rooms and the hallway outside.</p>
 	<img loading="lazy" src="../../img/event/PNWBJDExpo2014/IMG_7375.jpg" />
-    <p>The second room had photo sets and contestants.</p>
 	<img loading="lazy" src="../../img/event/PNWBJDExpo2014/IMG_7377.jpg" />
 	<img loading="lazy" src="../../img/event/PNWBJDExpo2014/IMG_7382.jpg" />
 	<img loading="lazy" src="../../img/event/PNWBJDExpo2014/IMG_7384.jpg" />
 	<img loading="lazy" src="../../img/event/PNWBJDExpo2014/IMG_7394.jpg" />
 	<img loading="lazy" src="../../img/event/PNWBJDExpo2014/IMG_7425.jpg" />
+	<img loading="lazy" src="../../img/event/PNWBJDExpo2014/IMG_7449.jpg" />
 	<img loading="lazy" src="../../img/event/PNWBJDExpo2014/IMG_7467.jpg" />
-    <p class="imgdesc">I ate jellyfish in Seattle the next day!</p>
-</body>
