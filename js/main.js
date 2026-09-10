@@ -140,6 +140,7 @@ function initializeDialog_Cherry() {
     document.getElementById("barista").addEventListener("click", pokeBarista_Cherry);
 
     document.getElementById("barista").src = "img/assets/cherrylimeade.gif";
+    document.getElementById("baristaName").innerHTML = "Cherry Limeade";
 
     changeDialog("Would you like a latte?<br />Can I get your name for the order?");
     dbox = document.getElementById("dialogbox");
@@ -170,6 +171,7 @@ function initializeDialog_Cheby() {
     var dbox, orderButton;
 
     document.getElementById("barista").src = "img/assets/pafnutychebyshev.gif";
+    document.getElementById("baristaName").innerHTML = "Pafa Chebyshev";
 
     /*if (initial) {
         document.getElementById("barista").addEventListener("click", pokeBarista_Cheby);
