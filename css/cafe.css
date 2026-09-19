@@ -354,3 +354,8 @@ a:hover {
     display: inline;
     color: #836435;
 }
+
+hr {
+    color: #836435;
+    border-width: 1px;
+}
