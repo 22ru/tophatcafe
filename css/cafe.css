@@ -360,3 +360,15 @@ hr {
     border-width: 1px;
     border-style: solid;
 }
+
+.buttonlist {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.buttonlist img {
+    display: flex;
+    border-radius: 0px;
+    margin: 2px;
+}
